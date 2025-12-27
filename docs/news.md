@@ -1,4 +1,4 @@
-# Latest Tech Articles:
+# Latest Tech Articles
 
 <div class="publication-card">
     <div class="publication-image">
