@@ -21,7 +21,7 @@
       <span class="timeline-role">Senior Software Engineer</span>
       <span class="timeline-dates">Feb 2022 – <strong class="text-accent" style="color:#22c55e;"><b>Present</b></strong></span>
     </div>
-    <div class="timeline-meta">San Fransisco, USA • Tech-Flex</div>
+    <div class="timeline-meta">San Fransisco, CA, USA • Tech-Flex</div>
   </div>
 
   <div class="timeline-item">
@@ -38,7 +38,7 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">California State University, Long beach</span>
+      <span class="timeline-org">California State University, Long Beach</span>
       <!-- <span class="timeline-role">Master of Science(MS) in Computer Science</span> -->
       <span class="timeline-dates">Aug 2019 – April 2021</span>
     </div>
@@ -53,12 +53,11 @@
       <span class="timeline-role">Software Engineer</span>
       <span class="timeline-dates">Jul 2019 – Sep 2021</span>
     </div>
-    <div class="timeline-meta">Long Beach • On-site</div>
-    <div class="timeline-desc">Worked on Hyperledger blockchain to store information through API integration.
+    <div class="timeline-meta">Long Beach, CA, USA • On-site</div>
+    <!-- <div class="timeline-desc">Worked on Hyperledger blockchain to store information through API integration. -->
  
     <!-- <span class="text-accent">Acquired by Salesforce</span>.</div> -->
-  </div>
-   <br> 
+  </div> 
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
