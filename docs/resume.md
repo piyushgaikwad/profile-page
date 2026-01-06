@@ -4,7 +4,7 @@
 
 <div class="timeline">
 
-  <div class="timeline-item">
+  <!-- <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
       <span class="timeline-org">IEEE</span>
@@ -12,7 +12,7 @@
       <span class="timeline-dates">Feb 2025 – <strong class="text-accent" style="color:#22c55e;"><b>Present</b></strong></span>
     </div>
     <div class="timeline-meta">Remote</div>
-  </div>
+  </div> -->
 
   <div class="timeline-item">
     <span class="timeline-dot"></span>
