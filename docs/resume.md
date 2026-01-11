@@ -29,7 +29,7 @@
     <span class="timeline-dot"></span>
     <div class="timeline-header">
       <span class="timeline-org">Hexaware</span>
-      <span class="timeline-role">Software Engineer</span>
+      <span class="timeline-role">Senior Software Engineer</span>
       <span class="timeline-dates">April 2021 – Feb 2022</span>
     </div>
     <div class="timeline-meta">Remote </div>
