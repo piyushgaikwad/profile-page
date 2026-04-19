@@ -52,7 +52,7 @@
     <div class="timeline-header">
       <span class="timeline-org">CSU, College of Business</span>
       <span class="timeline-role">Software Engineer</span>
-      <span class="timeline-dates">Jul 2019 – Sep 2021</span>
+      <span class="timeline-dates">Jul 2019 – March 2021</span>
     </div>
     <div class="timeline-meta">Long Beach, CA, USA • On-site</div>
     <!-- <div class="timeline-desc">Worked on Hyperledger blockchain to store information through API integration. -->
