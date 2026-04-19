@@ -64,7 +64,7 @@
     <div class="timeline-header">
       <span class="timeline-org">Infort Technology</span>
       <span class="timeline-role">Software Engineer</span>
-      <span class="timeline-dates">July 2017 – May 2019</span>
+      <span class="timeline-dates">July 2017 – March 2019</span>
     </div>
     <div class="timeline-meta">Maharashtra • On-site</div>
     <!-- <div class="timeline-desc">Worked on Hyperledger blockchain to store information through API integration.  -->
