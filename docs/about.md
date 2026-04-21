@@ -36,7 +36,7 @@
 
 I'm a Senior Software Engineer at Salesforce, building developer-centric systems that enable safe, reliable collaboration. Focused on reducing friction in the development lifecycle while maintaining strong governance and quality standards. Designed to scale across teams, ensuring consistency, resilience, and trust in every change.
 
-<b>📄 Recent Research</b>
+<u><b>📄 Recent Research</b></u>
 
   <p>
     My latest paper explores AI transparency in version control — introducing a local-first, Git-native provenance system that captures structured AI attribution metadata at commit time to support governance, audit, and incident response in AI-assisted software development.
