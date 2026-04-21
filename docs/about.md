@@ -35,3 +35,10 @@
 <b> Senior Software Engineer | Distributed Systems | CI/CD | Platform Productivity | Researcher | Open-Source Contributor </b>
 
 I'm a Senior Software Engineer at Salesforce, building developer-centric systems that enable safe, reliable collaboration. Focused on reducing friction in the development lifecycle while maintaining strong governance and quality standards. Designed to scale across teams, ensuring consistency, resilience, and trust in every change.
+
+📄 Recent Research
+My latest paper explores AI transparency in version control — introducing a local-first, Git-native provenance system that captures structured AI attribution metadata at commit time to support governance, audit, and incident response in AI-assisted software development.
+"AI Commit Ledger: Bridging the AI Transparency Gap in Version Control with Deterministic Session Attribution"
+Published in IJARSCT, Vol. 6, Issue 3, March 2026
+DOI: 10.48175/IJARSCT-31627
+https://www.researchgate.net/publication/402524035
